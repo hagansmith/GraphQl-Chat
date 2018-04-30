@@ -1,0 +1,3 @@
+targets:
+  chat-prod: shared-us-west-2/cjgl2c2d60y1801622vo4ux9x
+  default: chat-prod
